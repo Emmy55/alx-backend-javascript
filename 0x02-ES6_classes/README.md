@@ -1,1 +1,1 @@
-classes in JS
+0x02-ES6_classes
